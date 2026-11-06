@@ -1,0 +1,2 @@
+# 在项目已有 mindchen 环境中安装；不升级正在运行 SFT 的 torch / transformers。
+pypinyin==0.55.0

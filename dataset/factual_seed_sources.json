@@ -1,0 +1,15 @@
+{
+  "description": "由Codex依据机构公开资料核对的作品—作者种子，未经独立人工复核；只含关系事实，不复制现代作品正文。古典大库另标corpus_metadata，不能混称外部核实。",
+  "review_date": "2026-10-26",
+  "sources": [
+    {"author":"鲁迅","aliases":["鲁迅"],"url":"https://www.dpm.org.cn/lemmas/241203.html","works":[["呐喊","小说集"],["彷徨","小说集"],["华盖集","杂文集"],["狂人日记","现代白话小说"],["阿Q正传","中篇小说"]]},
+    {"author":"鲁迅","aliases":["鲁迅"],"url":"https://www.luxunmuseum.cn/study/article/id/38.html","works":[["朝花夕拾","散文集"]]},
+    {"author":"巴金","aliases":["巴金"],"url":"https://www.chinawriter.com.cn/xdzj/36.shtml","works":[["家","激流三部曲中的长篇小说"],["春","激流三部曲中的长篇小说"],["秋","激流三部曲中的长篇小说"],["灭亡","中篇小说"],["雾","爱情三部曲中的中篇小说"],["雨","爱情三部曲中的中篇小说"],["电","爱情三部曲中的中篇小说"]]},
+    {"author":"老舍","aliases":["老舍"],"url":"https://wyb.chinawriter.com.cn/content/202409/27/content76473.html","works":[["骆驼祥子","长篇小说"],["四世同堂","长篇小说"],["茶馆","话剧"],["猫城记","长篇小说"],["牛天赐传","长篇小说"]]},
+    {"author":"钱锺书","aliases":["钱锺书","钱钟书"],"url":"https://www.chinawriter.com.cn/n1/2017/1027/c404067-29613209.html","works":[["围城","长篇小说"],["人·兽·鬼","短篇小说集"]]},
+    {"author":"茅盾","aliases":["茅盾"],"url":"https://www.chinawriter.com.cn/xdzj/700.shtml","works":[["子夜","长篇小说"],["林家铺子","短篇小说"],["春蚕","农村三部曲中的短篇小说"],["秋收","农村三部曲中的短篇小说"],["残冬","农村三部曲中的短篇小说"]]},
+    {"author":"朱自清","aliases":["朱自清"],"url":"https://www.chnmuseum.cn/zl/zlhg/201812/t20181220_32442.shtml","works":[["背影","散文"],["荷塘月色","散文"],["踪迹","诗歌散文集"],["欧游杂记","散文集"],["伦敦杂记","散文集"]]},
+    {"author":"沈从文","aliases":["沈从文"],"url":"https://www.wxg.org.cn/jdzjzk/4413.jhtml","works":[["边城","小说"]]},
+    {"author":"沈从文","aliases":["沈从文"],"url":"https://www.chinawriter.com.cn/n1/2026/1014/c419384-40814458.html","works":[["长河","小说"]]}
+  ]
+}
